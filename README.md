@@ -4,6 +4,7 @@
 
 This repository contains the material for the SAP TechEd 2020 session ANA367 - Integrating Cloud Solutions from SAP into SAP Data Warehouse Cloud.  
 
+In this hands-on session we will realize a simple end-to-end scenario with the main objective to introduce the different functions and options. The main focus of the session is the Data Integration of Cloud Sources and Data Modelling in SAP Data Warehouse Cloud along with visualizing the data models in a SAP Analytics Cloud Story. 
 
 ## Exercises
 
