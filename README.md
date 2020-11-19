@@ -2,20 +2,13 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2020 session ANA367 - Integrating Cloud Solutions from SAP into SAP Data Warehouse Cloud.  
 
-## Overview
-
-This session introduces attendees to...
-
-## Requirements
-
-The requirements to follow the exercises in this repository are...
 
 ## Exercises
 
 
-Start the exercises [here](exercises/myPDFDoc.pdf).
+Start the exercises [here](https://docs.google.com/spreadsheets/d/1X3f5hd5hPhCddbt3uQHjFRwW-LmP9dnXZRqc25MnI0s/edit#gid=0).
     
 
 **IMPORTANT**
