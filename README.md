@@ -9,6 +9,7 @@ This repository contains the material for the SAP TechEd 2020 session ANA367 - I
 
 
 Start the exercises [here](https://docs.google.com/spreadsheets/d/1X3f5hd5hPhCddbt3uQHjFRwW-LmP9dnXZRqc25MnI0s/edit#gid=0).
+
 The user list is located [here](https://docs.google.com/spreadsheets/d/1X3f5hd5hPhCddbt3uQHjFRwW-LmP9dnXZRqc25MnI0s/edit#gid=0).
     
 
