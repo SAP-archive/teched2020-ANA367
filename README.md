@@ -1,5 +1,7 @@
 # ANA367 - Integrating Cloud Solutions from SAP into SAP Data Warehouse Cloud
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-ANA367)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-ANA367)
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2020 session ANA367 - Integrating Cloud Solutions from SAP into SAP Data Warehouse Cloud.  
